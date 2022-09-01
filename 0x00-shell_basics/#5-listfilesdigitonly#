@@ -1,0 +1,4 @@
+#!/bin/bash
+ls -na
+C-x C-s
+C-x C-c

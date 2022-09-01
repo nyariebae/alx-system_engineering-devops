@@ -1,1 +1,1 @@
-script that prints the absolute path name of the current working directory in a long format
+Delete the file betty.

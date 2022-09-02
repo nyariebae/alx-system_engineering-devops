@@ -1,4 +1,5 @@
 #!/bin/bash
-cp -u ".html" ..
+cp -u ".html ..
+
 
 
